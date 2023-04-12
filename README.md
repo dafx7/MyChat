@@ -6,8 +6,5 @@ The app provides a simple interface where users can create an account or log in 
 
 The back end of the app is built using Django and Agora SDK. Django is used for managing user authentication and providing the necessary APIs for the front end. Agora SDK is used for real-time audio and video communication between users.
 
-## Contributing
-If you'd like to contribute to this project, please fork the repository and make a pull request with your changes. We welcome contributions of all kinds, including bug fixes, feature additions, and documentation improvements.
-
 ## Credits
 This app was created following the Django + Agora SDK Tutorial by Dennis Ivy. Special thanks to Dennis Ivy for creating the tutorial and making it easy for us to build this app!
